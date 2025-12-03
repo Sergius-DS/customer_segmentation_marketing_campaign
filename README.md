@@ -13,7 +13,7 @@ Limpieza de datos: procesé previamente los datos mediante el manejo de valores 
 
 Visualización de datos: utilicé varias técnicas de visualización (histogramas, diagramas de caja, diagramas de dispersión, diagramas de violín y mapas de calor) para obtener información sobre las relaciones entre las variables e identificar patrones.
 
-Agrupamiento de K-Means: apliqué el agrupamiento de K-Means para segmentar a los clientes en grupos distintos en función de sus características. Evalué la cantidad óptima de grupos utilizando la puntuación de silueta.
+Agrupamiento de K-Means: apliqué el agrupamiento de K-Means para segmentar a los clientes en grupos distintos en función de sus características.
 
 Descripción de los Clusters: analicé las características de cada grupo, incluidos el valor monetario, la frecuencia y la actualidad para obtener una comprensión más profunda de los segmentos de clientes.
 
@@ -25,7 +25,7 @@ Data Cleaning: I preprocessed the data by handling missing values, encoding cate
 
 Data Visualization: I used various visualization techniques: histograms, box plots, scatter plots, violin plots and heatmap) to gain insights into the relationships between variables and identify patterns.
 
-K-Means Clustering: I applied K-Means clustering to segment customers into distinct groups based on their characteristics. I evaluated the optimal number of clusters using the silhouette score.
+K-Means Clustering: I applied K-Means clustering to segment customers into distinct groups based on their characteristics.
 
 Cluster Description: I analyzed each cluster's characteristics, including MonetaryValue, Frequency, and Recency to gain a deeper understanding of the customer segments
 
